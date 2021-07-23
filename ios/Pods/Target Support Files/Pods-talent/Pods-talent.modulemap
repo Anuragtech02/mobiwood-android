@@ -1,0 +1,6 @@
+module Pods_talent {
+  umbrella header "Pods-talent-umbrella.h"
+
+  export *
+  module * { export * }
+}

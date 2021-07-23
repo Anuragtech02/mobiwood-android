@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130312623882",
+    "firebase_url": "https://talent-e8b22.firebaseio.com",
+    "project_id": "talent-e8b22",
+    "storage_bucket": "talent-e8b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130312623882:android:8643d1d81d8911e0ed8cf3",
+        "android_client_info": {
+          "package_name": "net.mobiwood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130312623882-ipk4oofntbbg492hhrri19os9lulmshb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.mobiwood",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "130312623882-evi8913j4vd1pqid7vjah51isudn8het.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeN8PE67740ZAaaDVfFWN3Lm3vgEjRCWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130312623882-evi8913j4vd1pqid7vjah51isudn8het.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
